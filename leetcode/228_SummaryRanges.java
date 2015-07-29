@@ -1,4 +1,4 @@
-c class Solution {
+public class Solution {
     public List<String> summaryRanges(int[] nums) {
         List<String> solution = new LinkedList<String>();
         if (nums == null || nums.length == 0) {
